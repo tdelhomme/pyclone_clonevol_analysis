@@ -31,7 +31,9 @@ Rscript reformat4pyclone.r --help
   |-----------|---------------|
   | file    | tab file (e.g. reformated4pyclone.csv) with columns: mutation_id	ref_counts	var_counts	normal_cn	minor_cn	major_cn	gene |
 
-### After running the script reformat4pyclone.r, user should run Pyclone to obtain a folder input for clonevol (e.g. a folder pyclone_output_SAMPLE1)
+### PyClone step
+
+__After running the script reformat4pyclone.r, user should run Pyclone to obtain a folder input for clonevol (e.g. a folder pyclone_output_SAMPLE1).__
 
 ## Script clonevol.r
 
