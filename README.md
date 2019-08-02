@@ -5,6 +5,13 @@
 
 R scripts to perform analysis of intra-tumor heterogeneity using Pyclone to estimate the clusters (from both CNVs estimated with facets and SNVs estimates with MuTect2 previously) and ClonEvol to reconstruct the clonal evolution. The outputs are both clusters of mutations and tree of evolution.  
 
+## Parameters
+
+To obtain details on input parameters, user should ask the help, _e.g._:
+
+```
+Rscript reformat4pyclone.r --help
+```
 
 ## Dependencies
 
